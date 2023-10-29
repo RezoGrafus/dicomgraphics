@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/fynelabs/dicomgraphics"
+	"github.com/RezoGrafus/dicomgraphics"
 
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/canvas"
